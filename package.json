@@ -1,0 +1,43 @@
+{
+  "name": "smootheme",
+  "displayName": "smooTheme",
+  "description": "A beginner-friendly dark theme, built around Python",
+  "version": "1.0.0",
+  "publisher": "smoochy",
+  "license": "MIT",
+  "icon": "smoochy.jpg",
+  "galleryBanner": {
+    "color": "#181b1f",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smoochy/smooTheme"
+  },
+  "bugs": {
+    "url": "https://github.com/smoochy/smooTheme/issues"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "smoochy",
+    "vscode.one",
+    "dark",
+    "python",
+    "beginner"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "smooTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/smooTheme-color-theme.json"
+      }
+    ]
+  }
+}
