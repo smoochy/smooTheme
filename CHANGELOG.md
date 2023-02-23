@@ -1,9 +1,18 @@
 # Change Log
 
-All notable changes to the "smooTheme" extension will be documented in this file.<br>
-## [V1.0.1] - 2023.02.23<br>
-### Fixed<br>
+## [V1.0.2] - 2023.02.23
+
+### Changed
+
+- Slightly changed color of `numbers` to better differ from `variables` when Night-Shift
+  Mode or f.lux is being active.
+
+## [V1.0.1] - 2023.02.23
+
+### Fixed
+
 - Corrected preview pictures, which incorrectly showed greenish lines
-<br><br>
-## [V1.0.0] - 2023.02.23<br>
+
+## [V1.0.0] - 2023.02.23
+
 - Initial release
