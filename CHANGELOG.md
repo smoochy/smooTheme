@@ -1,5 +1,17 @@
 # Change Log
 
+## [V1.1.0] - 2023.02.24
+
+### Changed
+
+- Changed colors for `Variables`, `Properties`, `Keywords` & `Comments` syntax to be
+  [AAA](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html)
+  compliant.
+
+### Fixed
+
+- `Constants` like `True` & `False` had the same color as `numbers`.
+
 ## [V1.0.2] - 2023.02.23
 
 ### Changed
