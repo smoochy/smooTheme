@@ -1,5 +1,12 @@
 # Change Log
 
+## [V1.1.1] - 2023.04.06
+
+### Changed
+
+- Changed color for property `tab.border` to a more visible one. This helps to see
+  columns in SQL files better.
+
 ## [V1.1.0] - 2023.02.24
 
 ### Changed
